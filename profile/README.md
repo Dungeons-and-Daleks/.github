@@ -24,7 +24,8 @@ TODO guidelines
 
 ## People working on this 
 
-|----------------------------------------------------------------------|-------------|--------------|
-| ![Jaggi's pfp](https://avatars.githubusercontent.com/u/42418858?v=4) | Jaggernaute | project lead |
+|                                                                        |             |              |
+|:----------------------------------------------------------------------:|-------------|--------------|
+| ![Jaggi's pfp](https://avatars.githubusercontent.com/u/42418858?v=4)   | Jaggernaute | project lead |
 
 
