@@ -1,4 +1,4 @@
-<img src="assets/logo.png" alt="logo" width="100" height="75" align="right"/>
+<img src="assets/logo.png" alt="logo" width="75" height="75" align="right"/>
 
 # Hexo
 
