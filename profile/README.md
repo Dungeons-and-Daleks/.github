@@ -1,6 +1,6 @@
 <img src="assets/logo.png" alt="logo" width="75" height="75" align="right"/>
 
-# Hexo
+# Dungeons and Daleks
 
 > A fast, powerful and maybe over engineered table top RPG companion, powered by [TODO TECH USED](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
