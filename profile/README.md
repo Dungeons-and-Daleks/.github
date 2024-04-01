@@ -1,4 +1,4 @@
-<-- img src="TODO LOGO" alt="logo" width="100" height="100" align="right" />
+<img src="assets/logo.png" alt="logo" width="100" height="100" align="right" />
 
 # Hexo
 
